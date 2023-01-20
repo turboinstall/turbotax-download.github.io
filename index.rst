@@ -8,9 +8,9 @@ Turbotax Download
 |
 
 .. image:: entercode.png
-    :width: 1000px
+    :width: 300px
     :align: center
-    :height: 500px
+    :height: 100px
     :alt: Turbotax Download 
     :target: http://taxt.s3-website-us-west-1.amazonaws.com
     
